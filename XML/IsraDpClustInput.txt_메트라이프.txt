@@ -1,0 +1,6 @@
+J2C Resource Adapter Name installed at node=ISRA
+Node where it is deployed=KRMUIWFP12Node01
+New resource adapter name=ISRAcls_isra
+Cluster scope=prod_isra_cluster
+Name for J2c Connection Factory=MLKPRD
+JNDI NAME=MLKPRD
